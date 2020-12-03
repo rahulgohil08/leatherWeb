@@ -165,13 +165,7 @@ $img_url = $host_url."shopping_cart_system/product_image/";
       <!-- /.container-fluid -->
 
       <!-- Sticky Footer -->
-      <footer class="sticky-footer">
-        <div class="container my-auto">
-          <div class="copyright text-center my-auto">
-            <span>Copyright © My Store</span>
-          </div>
-        </div>
-      </footer>
+     <?php include "footer.php" ?>
 
     </div>
     <!-- /.content-wrapper -->
