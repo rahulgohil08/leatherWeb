@@ -4,7 +4,7 @@
 <style type="text/css">
   
     #ul-sidebar {
-      background-color: #A52A2A;
+      background-color: #a5912a;
 }
 
 </style>
