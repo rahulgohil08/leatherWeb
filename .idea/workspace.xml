@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56b5e866-48e3-410a-b85f-50ddd2fa0872" name="Default Changelist" comment="Dairy Footer Changed.">
+      <change afterPath="$PROJECT_DIR$/DB/dairy.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/includes/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/includes/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/includes/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1k8Gf4ciF3wketogzTKlax76imf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DB" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\leather\DB" />
+      <recent name="C:\xampp\htdocs\leather\admin_panel" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56b5e866-48e3-410a-b85f-50ddd2fa0872" name="Default Changelist" comment="" />
+      <created>1605074905717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605074905717</updated>
+      <workItem from="1605074917015" duration="897000" />
+      <workItem from="1606551505210" duration="5000" />
+      <workItem from="1606978190337" duration="2072000" />
+    </task>
+    <task id="LOCAL-00001" summary="Dairy Color Changed.">
+      <created>1606978658562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606978658562</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dairy Footer Changed.">
+      <created>1606978833278</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606978833278</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dairy Color Changed." />
+    <MESSAGE value="Dairy Footer Changed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Dairy Footer Changed." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="266" width="523" height="195" key="Github.ShareDialog" timestamp="1605075046743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="561" y="266" width="523" height="195" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1605075046743" />
+    <state x="458" y="71" key="Github.UntrackedFilesDialog" timestamp="1605075056902">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="458" y="71" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1605075056902" />
+    <state x="392" y="92" width="658" height="636" key="find.popup" timestamp="1606978794648">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="92" width="658" height="636" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1606978794648" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606978743110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606978743110" />
+  </component>
+</project>
