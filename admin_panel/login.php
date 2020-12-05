@@ -57,7 +57,7 @@ if (isset($_POST['submit'])) {
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Dairy - Login</title>
+  <title>Beauty - Login</title>
 
   <!-- Bootstrap core CSS-->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -72,7 +72,7 @@ if (isset($_POST['submit'])) {
 <style type="text/css">
   
   body {
-    background-color:powderblue;
+    background-color: #e57373;
 
 }
 </style>
@@ -84,7 +84,7 @@ if (isset($_POST['submit'])) {
 
   <div class="container">
     <div class="card card-login mx-auto mt-5">
-      <div class="card-header text-center">Dairy Login </div>
+      <div class="card-header text-center">Beauty Login </div>
       <div class="card-body">
         <form method="post">
           <div class="form-group">
@@ -100,7 +100,7 @@ if (isset($_POST['submit'])) {
             </div>
           </div>
 
-          <button type="submit" name="submit" class="btn btn-danger btn-block">Login</button>
+          <button type="submit" name="submit" class="btn btn-warning btn-block">Login</button>
         </form>
         <div class="text-center">
           </br>

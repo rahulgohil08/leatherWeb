@@ -19,7 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56b5e866-48e3-410a-b85f-50ddd2fa0872" name="Default Changelist" comment="Dairy Footer Changed." />
+    <list default="true" id="56b5e866-48e3-410a-b85f-50ddd2fa0872" name="Default Changelist" comment="Welcome to Beauty Web.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_panel/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_panel/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_panel/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_panel/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_panel/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_panel/navbar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_panel/order_details.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_panel/order_details.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_panel/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_panel/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/Api.php" beforeDir="false" afterPath="$PROJECT_DIR$/api/Api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/DbOperation.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/DbOperation.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +86,8 @@
       <workItem from="1606551505210" duration="5000" />
       <workItem from="1606978190337" duration="2072000" />
       <workItem from="1606980901422" duration="682000" />
+      <workItem from="1607144448298" duration="304000" />
+      <workItem from="1607144776061" duration="3614000" />
     </task>
     <task id="LOCAL-00001" summary="Dairy Color Changed.">
       <created>1606978658562</created>
@@ -92,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606978833278</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Welcome to Beauty Web.">
+      <created>1607144538103</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607144538103</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +131,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Dairy Color Changed." />
     <MESSAGE value="Dairy Footer Changed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Dairy Footer Changed." />
+    <MESSAGE value="Welcome to Beauty Web." />
+    <option name="LAST_COMMIT_MESSAGE" value="Welcome to Beauty Web." />
   </component>
   <component name="WindowStateProjectService">
     <state x="561" y="266" width="523" height="195" key="Github.ShareDialog" timestamp="1605075046743">
@@ -132,9 +151,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="392" y="92" width="658" height="636" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1606978794648" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606978743110">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1607149994556">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606978743110" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1607149994556" />
   </component>
 </project>
