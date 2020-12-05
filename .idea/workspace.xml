@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56b5e866-48e3-410a-b85f-50ddd2fa0872" name="Default Changelist" comment="Dairy Footer Changed.">
-      <change afterPath="$PROJECT_DIR$/DB/dairy.sql" afterDir="false" />
-    </list>
+    <list default="true" id="56b5e866-48e3-410a-b85f-50ddd2fa0872" name="Default Changelist" comment="Dairy Footer Changed." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +76,7 @@
       <workItem from="1605074917015" duration="897000" />
       <workItem from="1606551505210" duration="5000" />
       <workItem from="1606978190337" duration="2072000" />
+      <workItem from="1606980901422" duration="682000" />
     </task>
     <task id="LOCAL-00001" summary="Dairy Color Changed.">
       <created>1606978658562</created>
@@ -109,6 +108,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Dairy Color Changed." />
@@ -124,6 +124,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="458" y="71" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1605075056902" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1606980974125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606980974125" />
     <state x="392" y="92" width="658" height="636" key="find.popup" timestamp="1606978794648">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
