@@ -19,15 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56b5e866-48e3-410a-b85f-50ddd2fa0872" name="Default Changelist" comment="Welcome to Beauty Web.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin_panel/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_panel/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin_panel/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_panel/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin_panel/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_panel/navbar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin_panel/order_details.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_panel/order_details.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin_panel/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_panel/sidebar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/Api.php" beforeDir="false" afterPath="$PROJECT_DIR$/api/Api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/DbOperation.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/DbOperation.php" afterDir="false" />
+    <list default="true" id="56b5e866-48e3-410a-b85f-50ddd2fa0872" name="Default Changelist" comment="Beauty Done.">
+      <change beforePath="$PROJECT_DIR$/DB/dairy.sql" beforeDir="false" afterPath="$PROJECT_DIR$/DB/beauty.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +80,7 @@
       <workItem from="1606978190337" duration="2072000" />
       <workItem from="1606980901422" duration="682000" />
       <workItem from="1607144448298" duration="304000" />
-      <workItem from="1607144776061" duration="3614000" />
+      <workItem from="1607144776061" duration="3967000" />
     </task>
     <task id="LOCAL-00001" summary="Dairy Color Changed.">
       <created>1606978658562</created>
@@ -110,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607144538103</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Beauty Done.">
+      <created>1607150138822</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607150138822</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +132,8 @@
     <MESSAGE value="Dairy Color Changed." />
     <MESSAGE value="Dairy Footer Changed." />
     <MESSAGE value="Welcome to Beauty Web." />
-    <option name="LAST_COMMIT_MESSAGE" value="Welcome to Beauty Web." />
+    <MESSAGE value="Beauty Done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Beauty Done." />
   </component>
   <component name="WindowStateProjectService">
     <state x="561" y="266" width="523" height="195" key="Github.ShareDialog" timestamp="1605075046743">
