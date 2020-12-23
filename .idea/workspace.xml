@@ -19,13 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56b5e866-48e3-410a-b85f-50ddd2fa0872" name="Default Changelist" comment="Beauty DB and APK Added.">
-      <change afterPath="$PROJECT_DIR$/admin_panel/store/store.jpg" afterDir="false" />
+    <list default="true" id="56b5e866-48e3-410a-b85f-50ddd2fa0872" name="Default Changelist" comment="Dairy Industry Web Ready to Launch.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin_panel/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_panel/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin_panel/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_panel/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin_panel/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_panel/navbar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin_panel/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_panel/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB/beauty.apk" beforeDir="false" afterPath="$PROJECT_DIR$/DB/dairyIndustry.apk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="BeautyWeb" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,12 +58,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/admin_panel/store" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DB" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\leather\admin_panel\store" />
       <recent name="C:\xampp\htdocs\leather\DB" />
+      <recent name="C:\xampp\htdocs\leather\admin_panel\store" />
       <recent name="C:\xampp\htdocs\leather\admin_panel" />
     </key>
   </component>
@@ -87,7 +83,7 @@
       <workItem from="1606980901422" duration="682000" />
       <workItem from="1607144448298" duration="304000" />
       <workItem from="1607144776061" duration="4900000" />
-      <workItem from="1608714494806" duration="306000" />
+      <workItem from="1608714494806" duration="650000" />
     </task>
     <task id="LOCAL-00001" summary="Dairy Color Changed.">
       <created>1606978658562</created>
@@ -124,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607150621898</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Dairy Industry Web Ready to Launch.">
+      <created>1608714851266</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608714851266</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +151,8 @@
     <MESSAGE value="Welcome to Beauty Web." />
     <MESSAGE value="Beauty Done." />
     <MESSAGE value="Beauty DB and APK Added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Beauty DB and APK Added." />
+    <MESSAGE value="Dairy Industry Web Ready to Launch." />
+    <option name="LAST_COMMIT_MESSAGE" value="Dairy Industry Web Ready to Launch." />
   </component>
   <component name="WindowStateProjectService">
     <state x="561" y="266" width="523" height="195" key="Github.ShareDialog" timestamp="1605075046743">
@@ -159,10 +163,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="458" y="71" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1605075056902" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1607150634251">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1608715169329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607150634251" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608715169329" />
     <state x="392" y="92" width="658" height="636" key="find.popup" timestamp="1608714688544">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
