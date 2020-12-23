@@ -1,6 +1,6 @@
  
   
- <nav class="navbar navbar-expand navbar-dark bg-warning static-top" id="nav">
+ <nav class="navbar navbar-expand navbar-dark bg-success static-top" id="nav">
 
       <a class="navbar-brand mr-1" href="#"><?php echo "admin";?></a>
 
